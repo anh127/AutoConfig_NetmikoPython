@@ -5,3 +5,6 @@ You need to download the requests library by a command:
 ```
 pip install requests
 ```
+## Requirements
+Your devices must be a Cisco IOS type.\
+Your devices have done SSH configuration.
